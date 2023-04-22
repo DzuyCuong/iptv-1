@@ -17,6 +17,8 @@ http://rtmp.one.by:2200
 http://95.46.208.8:26259/nashe
 #EXTINF:-1 tvg-id="ONT.by" status="error",ОНТ (576p) [Not 24/7]
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV.by" status="online",ВТВ (1080p)
+http://178.124.179.122:8088/VTV/index.m3u8
 #EXTINF:-1 tvg-id="Vitebsk.by" status="online",Витебск (720p) [Not 24/7]
 https://flu.vtv.by/tvt-non-by/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8Belarus.by" status="timeout",8 канал (Витебск) (576p) [Not 24/7]
